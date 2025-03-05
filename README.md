@@ -28,27 +28,6 @@ Pivot Tables & VLOOKUP: Market-based data imputation
 Statistical Analysis: Correlation, regression, IQR method for outlier detection
 
 
-
----
-
-📂 Project Structure
-
-📁 Porter_Case_Study
-│-- 📄 Porter_Case_Study_Report.pdf  # Full detailed report
-│-- 📄 README.md                     # This file
-│-- 📂 Data
-│   ├── 📄 Porter_Delivery_Data.xlsx # Cleaned dataset used for analysis
-│   ├── 📄 Raw_Data.csv               # Original dataset
-│-- 📂 Visuals
-│   ├── 📊 Market_Analysis.png
-│   ├── 📊 Delivery_Time_Analysis.png
-│   ├── 📊 Peak_Hours.png
-│-- 📂 Code_Scripts
-│   ├── 📄 Data_Cleaning_Steps.xlsx   # Excel formulas & transformations used
-
-
----
-
 📊 Key Findings
 
 1️⃣ Delivery Time Performance
@@ -58,8 +37,6 @@ Statistical Analysis: Correlation, regression, IQR method for outlier detection
 
 📌 Recommendation: Optimize driver scheduling and route planning during high-delay periods.
 
-
----
 
 2️⃣ Peak Order Hours Analysis
 
@@ -79,8 +56,6 @@ Statistical Analysis: Correlation, regression, IQR method for outlier detection
 📌 Recommendation: Optimize logistics & restaurant partnerships in underperforming markets.
 
 
----
-
 4️⃣ On-Time Delivery Performance
 
 🚛 Busy partner availability has weak correlation (-0.126) with delivery speed, indicating that adding more drivers alone won’t fix delays.
@@ -89,8 +64,6 @@ Statistical Analysis: Correlation, regression, IQR method for outlier detection
 
 📌 Recommendation: Automate order processing for slow protocols and improve driver assignment efficiency.
 
-
----
 
 5️⃣ Order Trends & Pricing Analysis
 
@@ -101,16 +74,11 @@ Statistical Analysis: Correlation, regression, IQR method for outlier detection
 📌 Recommendation: Introduce upselling & combo offers to increase order value.
 
 
----
 
 📊 Excel Dashboard
 
 A fully interactive Excel dashboard was created to visualize order trends, delivery efficiency, and market performance using Pivot Tables and Charts.
 
-🔗 [View Dashboard] (Attach Excel file or screenshots)
-
-
----
 
 📈 Business Recommendations
 
@@ -119,30 +87,15 @@ A fully interactive Excel dashboard was created to visualize order trends, deliv
 ✔ Customer Engagement Strategies: Bundling, dynamic pricing, and promotions.
 
 
----
-
-📝 How to Use This Repository?
-
-1️⃣ Clone the repository
-
-git clone https://github.com/yourusername/porter-case-study.git
-
-2️⃣ Open the Excel Dashboard
-
-Download Porter_Delivery_Data.xlsx
-
-Navigate to the Dashboard Sheet to explore key insights
 
 
-
----
 
 📩 Contact & Contributions
 
 📌 Prepared by: Ashwin Joseph K A
 📧 Email: josephkaashwin@gmail.com
-🔗 LinkedIn: linkedin.com/in/ashwin-joseph6
-📂 Kaggle: kaggle.com/ashwinjoseph05
+🔗 LinkedIn: https//linkedin.com/in/ashwin-joseph6
+📂 Kaggle: https//kaggle.com/ashwinjoseph05
 
 🎯 Feel free to fork, contribute, or connect for further discussions! 🚀
 
